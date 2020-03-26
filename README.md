@@ -3,7 +3,7 @@
 [![MindOrks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
 <p align="center">
-    <img src="https://github.com/MindorksOpenSource/Fused-Location-API-Example/assets/using-gps-location-manager-in-android-android-tutorial-banner.jpg">
+    <img src="https://github.com/MindorksOpenSource/Fused-Location-API-Example/blob/master/assets/using-gps-location-manager-in-android-android-tutorial-banner.jpg">
 </p>
 <br>
 
